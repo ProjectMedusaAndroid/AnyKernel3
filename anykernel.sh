@@ -17,7 +17,7 @@ supported.patchlevels=
 '; } # end properties
 
 # shell variables
-block=/dev/block/mmcblk0p23;
+block=/dev/block/platform/soc/7824900.sdhci/by-name/boot;
 is_slot_device=0;
 ramdisk_compression=auto;
 
